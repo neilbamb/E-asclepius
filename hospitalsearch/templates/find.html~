@@ -1,0 +1,10 @@
+<div class="container">
+<h1>sersac<h1>
+<form method="post" action="find">
+
+<div class="form-group">
+<input type="text" name="srh" class="form-control" >
+<button type="submit" class ="btn btn-danger">search</button>
+</div>
+</form>
+
